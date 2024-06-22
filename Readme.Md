@@ -8,3 +8,7 @@
 7. git remote add origin url(created public/private link)
 8. git remote -v (to see the origin url)
 9. git push -u origin main (-u for upstream)
+10. How to create a branch? Ans. git brach (name of the branch)
+11. How to go a branch? Ans. git checkout (name of the branch)
+12. How to delete a branch? Ans. git branch -d (name of the branch) for this you have to switch out from the existing branch name
+13. 
